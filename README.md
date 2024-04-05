@@ -13,6 +13,6 @@ O método remover_duplicatas() remove as duplicatas da lista encadeada.
 
 # Exemplo de Uso:
 
-No exemplo fornecido no arquivo Python, uma lista encadeada (lista) é criada e alguns elementos são inseridos.
+No codigo fornecido no arquivo Python, uma lista encadeada (lista) é criada e alguns elementos são inseridos.
 Em seguida, o método remover_duplicatas() é chamado para remover as duplicatas da lista.
 A lista original e a lista resultante após a remoção das duplicatas são exibidas usando o método exibir_lista().
